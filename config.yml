@@ -166,6 +166,16 @@ params:
     - name: Live Chat
       description: Live Chat
       category: Main Systems
+    - name: Legacy Control Panel
+      category: Control Panels
+    - name: New Control Panel
+      category: Control Panels
+    - name: VPS Hosting
+      category: Hosting Servers
+    - name: Dedicated Servers
+      category: Hosting Servers
+    - name: Shared Servers
+      category: Hosting Servers
 
   # What date format to use?
   #
